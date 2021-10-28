@@ -1,0 +1,56 @@
+icd-10,description,category,additional eligibility based on sex
+F70,Mild mental retardation  ,Exact learning disability diagnosis,0
+F71,Moderate mental retardation  ,Exact learning disability diagnosis,0
+F72,Severe mental retardation  ,Exact learning disability diagnosis,0
+F73,Profound mental retardation  ,Exact learning disability diagnosis,0
+F78,Other mental retardation  ,Exact learning disability diagnosis,0
+F79,Unspecified mental retardation  ,Exact learning disability diagnosis,0
+Q90,Down’s  syndrome,High-risk conditions,0
+Q91,Edwards syndrome and Patau syndrome,High-risk conditions,0
+Q92.0,"Whole chromosome trisomy, meiotic nondisjunction  ",High-risk conditions,0
+Q92.1,"Whole chromosome trisomy, mosaicism (mitotic nondisjunction)  ",High-risk conditions,0
+Q92.2,Major partial trisomy  ,High-risk conditions,0
+Q92.3,Minor partial trisomy  ,High-risk conditions,0
+Q92.4,Duplications seen only at prometaphase  ,High-risk conditions,0
+Q92.5,Duplications with other complex rearrangements  ,High-risk conditions,0
+Q92.7,Triploidy and polyploidy  ,High-risk conditions,0
+Q92.8,Other specified trisomies and partial trisomies of autosomes  ,High-risk conditions,0
+Q92.9,"Trisomy and partial trisomy of autosomes, unspecified  ",High-risk conditions,0
+Q93,"Monosomies and deletions from the autosomes, not elsewhere classified  ",High-risk conditions,0
+Q99.8,Other specified chromosome abnormalities,High-risk conditions,0
+Q99.9,"Chromosomal abnormality, unspecified",High-risk conditions,0
+Q89.9,"Other congenital malformations, not elsewhere classified",High-risk conditions,0
+Q99.2,Fragile X chromosome (in boys),High-risk conditions,1
+Q00,Anencephaly and similar malformations  ,High-risk conditions,0
+Q01,Encephalocele  ,High-risk conditions,0
+F84.2,Rett syndrome  ,High-risk conditions,0
+E00,Congenital iodine-deficiency syndrome,High-risk conditions,0
+E75,Disorders of sphingolipid metabolism and other lipid storage disorders  ,Associated conditions,0
+E79.1,Lesch?Nyhan syndrome,Associated conditions,0
+E83.0,Disorders of copper metabolism (Menkes disease),Associated conditions,0
+E76,Disorders of glycosaminoglycan metabolism  ,Associated conditions,0
+E77,Disorders of glycoprotein metabolism  ,Associated conditions,0
+E88.8,Other specified metabolic disorders,Associated conditions,0
+G80,Cerebral palsy  ,Associated conditions,0
+Q86.0,Foetal alcohol syndrome (FAS),Associated conditions,0
+Q86.1,Foetal hydantoin syndrome,Associated conditions,0
+Q86.2,Dysmorphism due to warfarin,Associated conditions,0
+Q86.8,Other congenital malformation syndromes due to known exogenous causes,Associated conditions,0
+Q02,Microcephaly  ,Associated conditions,0
+Q03,Congenital hydrocephalus  ,Associated conditions,0
+Q04,Other congenital malformations of brain  ,Associated conditions,0
+Q85.1,Tuberous sclerosis,Associated conditions,0
+Q85.8,"Other phakomatoses, not elsewhere classified",Associated conditions,0
+Q85.9,"Phakomatosis, unspecified",Associated conditions,0
+Q98.0,"Klinefelter syndrome karyotype 47,XXY  ",Associated conditions,0
+Q98.1,"Klinefelter syndrome, male with more than two X chromosomes  ",Associated conditions,0
+Q98.2,"Klinefelter syndrome, male with 46,XX karyotype  ",Associated conditions,0
+Q98.3,"Other male with 46,XX karyotype  ",Associated conditions,0
+Q98.4,"Klinefelter syndrome, unspecified  ",Associated conditions,0
+Q99.2,Fragile X chromosome (in girls),Associated conditions,1
+Q87.0,Congenital malformation syndromes predominantly affecting facial appearance,Associated conditions,0
+Q87.1,Congenital malformation syndromes predominantly associated with short stature,Associated conditions,0
+Q87.2,Congenital malformation syndromes predominantly involving limbs,Associated conditions,0
+Q87.3,Congenital malformation syndromes involving early overgrowth,Associated conditions,0
+Q87.5,Other congenital malformation syndromes with other skeletal changes,Associated conditions,0
+Q87.8,"Other specified congenital malformation syndromes, not elsewhere classified",Associated conditions,0
