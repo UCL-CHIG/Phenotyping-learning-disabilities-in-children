@@ -1,0 +1,9 @@
+icd_10,icd_10_clean,Description
+F84.0,F840,Childhood autism
+F84.1,F841,Atypical autism
+F84.2,F842,Rett syndrome
+F84.3,F843,Other childhood disintegrative disorder
+F84.4,F844,Overactive disorder associated with mental retardation and stereotyped movements
+F84.5,F845,Asperger's syndrome
+F84.8,F848,Other pervasive developmental disorders
+F84.9,F849,"Pervasive developmental disorder, unspecified"

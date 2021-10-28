@@ -1,0 +1,56 @@
+icd_10,icd_10_clean,description,category,extra_eligibility_sex
+F70,F70,Mild mental retardation  ,Exact learning disability diagnosis,0
+F71,F71,Moderate mental retardation  ,Exact learning disability diagnosis,0
+F72,F72,Severe mental retardation  ,Exact learning disability diagnosis,0
+F73,F73,Profound mental retardation  ,Exact learning disability diagnosis,0
+F78,F78,Other mental retardation  ,Exact learning disability diagnosis,0
+F79,F79,Unspecified mental retardation  ,Exact learning disability diagnosis,0
+Q90,Q90,Down’s  syndrome,High-risk conditions,0
+Q91,Q91,Edwards syndrome and Patau syndrome,High-risk conditions,0
+Q92.0,Q920,"Whole chromosome trisomy, meiotic nondisjunction  ",High-risk conditions,0
+Q92.1,Q921,"Whole chromosome trisomy, mosaicism (mitotic nondisjunction)  ",High-risk conditions,0
+Q92.2,Q922,Major partial trisomy  ,High-risk conditions,0
+Q92.3,Q923,Minor partial trisomy  ,High-risk conditions,0
+Q92.4,Q924,Duplications seen only at prometaphase  ,High-risk conditions,0
+Q92.5,Q925,Duplications with other complex rearrangements  ,High-risk conditions,0
+Q92.7,Q927,Triploidy and polyploidy  ,High-risk conditions,0
+Q92.8,Q928,Other specified trisomies and partial trisomies of autosomes  ,High-risk conditions,0
+Q92.9,Q929,"Trisomy and partial trisomy of autosomes, unspecified  ",High-risk conditions,0
+Q93,Q93,"Monosomies and deletions from the autosomes, not elsewhere classified  ",High-risk conditions,0
+Q99.8,Q998,Other specified chromosome abnormalities,High-risk conditions,0
+Q99.9,Q999,"Chromosomal abnormality, unspecified",High-risk conditions,0
+Q89.9,Q899,"Other congenital malformations, not elsewhere classified",High-risk conditions,0
+Q99.2,Q992,Fragile X chromosome (in boys),High-risk conditions,1
+Q00,Q00,Anencephaly and similar malformations  ,High-risk conditions,0
+Q01,Q01,Encephalocele  ,High-risk conditions,0
+F84.2,F842,Rett syndrome  ,High-risk conditions,0
+E00,E00,Congenital iodine-deficiency syndrome,High-risk conditions,0
+E75,E75,Disorders of sphingolipid metabolism and other lipid storage disorders  ,Associated conditions,0
+E79.1,E791,Lesch?Nyhan syndrome,Associated conditions,0
+E83.0,E830,Disorders of copper metabolism (Menkes disease),Associated conditions,0
+E76,E76,Disorders of glycosaminoglycan metabolism  ,Associated conditions,0
+E77,E77,Disorders of glycoprotein metabolism  ,Associated conditions,0
+E88.8,E888,Other specified metabolic disorders,Associated conditions,0
+G80,G80,Cerebral palsy  ,Associated conditions,0
+Q86.0,Q860,Foetal alcohol syndrome (FAS),Associated conditions,0
+Q86.1,Q861,Foetal hydantoin syndrome,Associated conditions,0
+Q86.2,Q862,Dysmorphism due to warfarin,Associated conditions,0
+Q86.8,Q868,Other congenital malformation syndromes due to known exogenous causes,Associated conditions,0
+Q02,Q02,Microcephaly  ,Associated conditions,0
+Q03,Q03,Congenital hydrocephalus  ,Associated conditions,0
+Q04,Q04,Other congenital malformations of brain  ,Associated conditions,0
+Q85.1,Q851,Tuberous sclerosis,Associated conditions,0
+Q85.8,Q858,"Other phakomatoses, not elsewhere classified",Associated conditions,0
+Q85.9,Q859,"Phakomatosis, unspecified",Associated conditions,0
+Q98.0,Q980,"Klinefelter syndrome karyotype 47,XXY  ",Associated conditions,0
+Q98.1,Q981,"Klinefelter syndrome, male with more than two X chromosomes  ",Associated conditions,0
+Q98.2,Q982,"Klinefelter syndrome, male with 46,XX karyotype  ",Associated conditions,0
+Q98.3,Q983,"Other male with 46,XX karyotype  ",Associated conditions,0
+Q98.4,Q984,"Klinefelter syndrome, unspecified  ",Associated conditions,0
+Q99.2,Q992,Fragile X chromosome (in girls),Associated conditions,1
+Q87.0,Q870,Congenital malformation syndromes predominantly affecting facial appearance,Associated conditions,0
+Q87.1,Q871,Congenital malformation syndromes predominantly associated with short stature,Associated conditions,0
+Q87.2,Q872,Congenital malformation syndromes predominantly involving limbs,Associated conditions,0
+Q87.3,Q873,Congenital malformation syndromes involving early overgrowth,Associated conditions,0
+Q87.5,Q875,Other congenital malformation syndromes with other skeletal changes,Associated conditions,0
+Q87.8,Q878,"Other specified congenital malformation syndromes, not elsewhere classified",Associated conditions,0
