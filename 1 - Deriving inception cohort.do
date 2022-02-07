@@ -93,7 +93,8 @@ tab ydob ld  if id_nr==1
 ************ Austistic Spectrum Disorders
 capture drop asd_tmp*
 gen asd_tmp = 0
-replace asd_tmp = 1 if strpos(diag_concat,"F84")>0 
+replace asd_tmp = 1 if strpos(diag_concat,"F840")>0 | strpos(diag_concat,"F841")>0 | strpos(diag_concat,"F843")>0 | strpos(diag_concat,"F844")>0   | ///
+	strpos(diag_concat,"F845")>0 | strpos(diag_concat,"F848")>0 | strpos(diag_concat,"F849")>0 
 gen asd_tmp_date= admd if asd_tmp==1
 gen asd_tmp_age = startage2 if asd_tmp == 1
 bysort encrypted_hesid: egen asd = max(asd_tmp)
